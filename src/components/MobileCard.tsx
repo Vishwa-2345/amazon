@@ -22,3 +22,5 @@ const MobileCard: React.FC<MobileProps> = ({ image, name, price, rating }) => {
 };
 
 export default MobileCard;
+
+
